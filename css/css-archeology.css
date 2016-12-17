@@ -1,0 +1,88 @@
+body {
+    position: relative;
+    /*padding-top:102px;
+    background-color: #9c6638;*/
+    
+}
+
+
+#section1 {
+    padding: 0px 15px;
+    color: #fff;
+    background-color: #9c6638;
+}
+
+#section3 {
+    padding: 50px 15px;
+    color: #fff;
+    background-color: #9c6638;
+}
+
+#section2,
+#section4 {
+    padding: 50px 15px;
+    color: #63352b;
+    background-image: url(../img/6-Pliska-AncientBulgarianCapital1-1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    font-weight: bold;
+}
+
+
+#section1 .carousel-caption {
+    background-color: #9c6638;
+    color: #fff;
+    font-size: 40px;
+    opacity: 0.6;
+}
+
+.carousel-fullscreen .carousel-inner .item img {
+    height: 100vh;
+    min-height: 600px;
+    margin: 0 auto;
+    /*centers the image*/
+}
+
+.navbar-styled {
+    background-color: #9c6638;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #fff; 
+    font-weight: bold;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus {
+    color: #fff;
+    font-weight: bold;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    color: #9c6638;
+    background-color: #E7E7E7;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.navbar-default .navbar-toggle .icon-bar:hover,
+.navbar-default .navbar-toggle .icon-bar:focus {
+    background-color: #9c6638
+}
+
+.a-styled {
+    color: #262533;
+}
