@@ -22,7 +22,7 @@ body {
 #section4 {
     padding: 50px 15px;
     color: #63352b;
-    background-image: url(../img/6-Pliska-AncientBulgarianCapital1-1-C.jpg);
+    background-image: url(../img/6-Pliska-AncientBulgarianCapital1-1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     font-weight: bold;
@@ -85,21 +85,4 @@ body {
 
 .a-styled {
     color: #262533;
-}
-
-/*Footer styling*/
-.panel-styled {
-    background-color: #9c6638;
-    border-color: #9c6638;
-    color: #fff;
-    text-align: center;
-}
-
-.panel-styled>img {
-    height: 30px;
-}
-
-.panel-footer {
-  border-bottom-right-radius: 0px;
-  border-bottom-left-radius: 0px;
 }
